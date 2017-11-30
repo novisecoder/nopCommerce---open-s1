@@ -1,0 +1,5 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\UrlRewritingNet.UrlRewriter\bin\Release\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\UrlRewritingNet.UrlRewriter\bin\Release\UrlRewritingNet.UrlRewriter.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\UrlRewritingNet.UrlRewriter\obj\Release\UrlRewritingNet.UrlRewriter.csprojResolveAssemblyReference.cache
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\UrlRewritingNet.UrlRewriter\obj\Release\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\UrlRewritingNet.UrlRewriter\obj\Release\UrlRewritingNet.UrlRewriter.pdb

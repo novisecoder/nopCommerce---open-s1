@@ -1,0 +1,17 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Nop.Payment.CDGcommerce.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Nop.Payment.CDGcommerce.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\bin\Release\Nop.BusinessLogic.XmlSerializers.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\obj\Release\Nop.Payment.CDGcommerce.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\obj\Release\Nop.Payment.CDGcommerce.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.CDGcommerce\obj\Release\Nop.Payment.CDGcommerce.csprojResolveAssemblyReference.cache

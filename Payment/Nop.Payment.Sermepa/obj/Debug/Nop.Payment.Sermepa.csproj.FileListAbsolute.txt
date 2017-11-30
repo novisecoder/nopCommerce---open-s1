@@ -1,0 +1,15 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Nop.Payment.Sermepa.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Nop.Payment.Sermepa.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\bin\Debug\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\obj\Debug\Nop.Payment.Sermepa.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.Sermepa\obj\Debug\Nop.Payment.Sermepa.pdb

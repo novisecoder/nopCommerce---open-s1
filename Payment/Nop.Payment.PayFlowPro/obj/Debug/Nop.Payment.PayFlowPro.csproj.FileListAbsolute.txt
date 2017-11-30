@@ -1,0 +1,17 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Nop.Payment.PayFlowPro.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Nop.Payment.PayFlowPro.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Payflow_dotNET.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\bin\Debug\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\obj\Debug\Nop.Payment.PayFlowPro.csprojResolveAssemblyReference.cache
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\obj\Debug\Nop.Payment.PayFlowPro.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PayFlowPro\obj\Debug\Nop.Payment.PayFlowPro.pdb

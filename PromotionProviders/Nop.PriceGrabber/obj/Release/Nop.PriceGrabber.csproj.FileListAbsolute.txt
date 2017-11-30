@@ -1,0 +1,17 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Nop.PriceGrabber.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Nop.PriceGrabber.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\bin\Release\Nop.BusinessLogic.XmlSerializers.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\obj\Release\Nop.PriceGrabber.csprojResolveAssemblyReference.cache
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\obj\Release\Nop.PriceGrabber.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.PriceGrabber\obj\Release\Nop.PriceGrabber.pdb

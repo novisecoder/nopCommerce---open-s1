@@ -1,0 +1,16 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Nop.Become.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Nop.Become.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\bin\Debug\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\obj\Debug\Nop.Become.csprojResolveAssemblyReference.cache
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\obj\Debug\Nop.Become.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\PromotionProviders\Nop.Become\obj\Debug\Nop.Become.pdb

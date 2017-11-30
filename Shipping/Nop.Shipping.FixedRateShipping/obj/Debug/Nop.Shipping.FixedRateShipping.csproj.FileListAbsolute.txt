@@ -1,0 +1,16 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Nop.Shipping.FixedRateShipping.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Nop.Shipping.FixedRateShipping.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\bin\Debug\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\obj\Debug\Nop.Shipping.FixedRateShipping.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\obj\Debug\Nop.Shipping.FixedRateShipping.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.FixedRateShipping\obj\Debug\Nop.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache

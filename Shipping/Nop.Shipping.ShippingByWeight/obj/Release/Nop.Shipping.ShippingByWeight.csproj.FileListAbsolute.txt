@@ -1,0 +1,17 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Nop.Shipping.ShippingByWeight.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Nop.Shipping.ShippingByWeight.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\bin\Release\Nop.BusinessLogic.XmlSerializers.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\obj\Release\Nop.Shipping.ShippingByWeight.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\obj\Release\Nop.Shipping.ShippingByWeight.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.ShippingByWeight\obj\Release\Nop.Shipping.ShippingByWeight.csprojResolveAssemblyReference.cache

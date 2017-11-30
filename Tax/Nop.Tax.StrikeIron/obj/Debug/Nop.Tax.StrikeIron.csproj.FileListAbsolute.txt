@@ -1,0 +1,17 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Nop.Tax.StrikeIron.dll.config
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Nop.Tax.StrikeIron.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Nop.Tax.StrikeIron.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\bin\Debug\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\obj\Debug\Nop.Tax.StrikeIron.csprojResolveAssemblyReference.cache
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\obj\Debug\Nop.Tax.StrikeIron.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.StrikeIron\obj\Debug\Nop.Tax.StrikeIron.pdb

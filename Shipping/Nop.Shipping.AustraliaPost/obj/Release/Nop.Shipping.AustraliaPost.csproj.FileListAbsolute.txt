@@ -1,0 +1,17 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Nop.Shipping.AustraliaPost.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Nop.Shipping.AustraliaPost.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\bin\Release\Nop.BusinessLogic.XmlSerializers.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\obj\Release\Nop.Shipping.AustraliaPost.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\obj\Release\Nop.Shipping.AustraliaPost.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.AustraliaPost\obj\Release\Nop.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache

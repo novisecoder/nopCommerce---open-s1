@@ -1,0 +1,17 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Nop.Tax.GeneralTaxProvider.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Nop.Tax.GeneralTaxProvider.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Nop.BusinessLogic.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Ionic.Zip.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\MigraDoc.Rendering.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\PdfSharp.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\PdfSharp.Charting.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Nop.BusinessLogic.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\bin\Release\Nop.BusinessLogic.XmlSerializers.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\obj\Release\Nop.Tax.GeneralTaxProvider.csprojResolveAssemblyReference.cache
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\obj\Release\Nop.Tax.GeneralTaxProvider.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.GeneralTaxProvider\obj\Release\Nop.Tax.GeneralTaxProvider.pdb

@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="NopSolutions.NopCommerce.Web.MasterPages.Main" %>
+
+<%@ Register TagPrefix="nopCommerce" TagName="GoogleAdsense" Src="~/Modules/GoogleAdsense.ascx" %>
+<%@ Register TagPrefix="nopCommerce" TagName="NewsLetterSubscriptionBoxControl" Src="~/Modules/NewsLetterSubscriptionBoxControl.ascx" %>
+<%@ Register TagPrefix="nopCommerce" TagName="CategoryNavigation" Src="~/Modules/CategoryNavigation.ascx" %>
+<%@ Register TagPrefix="nopCommerce" TagName="ManufacturerNavigation" Src="~/Modules/ManufacturerNavigation.ascx" %>
+<%@ Register TagPrefix="EShopper" TagName="Footer" Src="~/Modules/EShopperFooter.ascx" %>
+<%@ Register TagPrefix="nopCommerce" TagName="Header" Src="~/Modules/EShopperHeader.ascx" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="../Content/prettyPhoto.css" rel="stylesheet" />
+    <link href="../Content/price-range.css" rel="stylesheet" />
+    <link href="../Content/animate.css" rel="stylesheet" />
+    <link href="../Content/main.css" rel="stylesheet" />
+    <link href="../Content/responsive.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <asp:PlaceHolder ID="phAnalyticsHead" runat="server" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nopCommerce:Header runat="server" ID="EHeader" />
+    <div class="container" style="align-self: center; height:auto">
+            <asp:ContentPlaceHolder runat="server" ID="body">
+            </asp:ContentPlaceHolder>
+        </div>
+        <br />
+        <br />
+        <br />
+        <EShopper:Footer runat="server" ID="Footer" />
+    </form>
+    <script src="../Scripts/jquery.js" type="text/javascript"></script>
+	<script src="../Scripts/bootstrap.min.js" type="text/javascript"></script>
+	<script src="../Scripts/price-range.js" type="text/javascript"></script>
+    <script src="../Scripts/jquery.prettyPhoto.js" type="text/javascript"></script>
+    <script src="../Scripts/main.js" type="text/javascript"></script>
+    <asp:PlaceHolder id="phAnalyticsBody" runat="server" />
+
+</body>
+</html>

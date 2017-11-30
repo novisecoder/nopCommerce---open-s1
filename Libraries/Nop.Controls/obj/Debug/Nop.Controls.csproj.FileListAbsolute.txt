@@ -1,0 +1,7 @@
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Controls\bin\Debug\Nop.Controls.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Controls\bin\Debug\Nop.Controls.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Controls\bin\Debug\Nop.Common.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Controls\bin\Debug\Nop.Common.pdb
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Controls\obj\Debug\Nop.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Controls\obj\Debug\Nop.Controls.dll
+C:\Users\Silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Controls\obj\Debug\Nop.Controls.pdb
