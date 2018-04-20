@@ -11,6 +11,6 @@ C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PurchaseOrder\bin\x86\Debug\PdfSharp.Charting.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PurchaseOrder\bin\x86\Debug\Nop.BusinessLogic.pdb
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PurchaseOrder\bin\x86\Debug\Nop.Common.pdb
-C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PurchaseOrder\obj\x86\Debug\Nop.Payment.PurchaseOrder.csprojResolveAssemblyReference.cache
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PurchaseOrder\obj\x86\Debug\Nop.Payment.PurchaseOrder.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PurchaseOrder\obj\x86\Debug\Nop.Payment.PurchaseOrder.pdb
+C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.PurchaseOrder\obj\x86\Debug\Nop.Payment.PurchaseOrder.csprojResolveAssemblyReference.cache

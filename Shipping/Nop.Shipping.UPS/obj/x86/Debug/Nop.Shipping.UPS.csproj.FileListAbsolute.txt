@@ -11,6 +11,6 @@ C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shippin
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.UPS\bin\x86\Debug\PdfSharp.Charting.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.UPS\bin\x86\Debug\Nop.BusinessLogic.pdb
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.UPS\bin\x86\Debug\Nop.Common.pdb
-C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.UPS\obj\x86\Debug\Nop.Shipping.UPS.csprojResolveAssemblyReference.cache
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.UPS\obj\x86\Debug\Nop.Shipping.UPS.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.UPS\obj\x86\Debug\Nop.Shipping.UPS.pdb
+C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Shipping\Nop.Shipping.UPS\obj\x86\Debug\Nop.Shipping.UPS.csprojResolveAssemblyReference.cache

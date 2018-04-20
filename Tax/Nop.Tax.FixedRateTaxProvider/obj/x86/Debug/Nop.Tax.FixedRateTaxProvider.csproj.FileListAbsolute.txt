@@ -11,6 +11,6 @@ C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.FixedRateTaxProvider\bin\x86\Debug\PdfSharp.Charting.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.FixedRateTaxProvider\bin\x86\Debug\Nop.BusinessLogic.pdb
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.FixedRateTaxProvider\bin\x86\Debug\Nop.Common.pdb
-C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.FixedRateTaxProvider\obj\x86\Debug\Nop.Tax.FixedRateTaxProvider.csprojResolveAssemblyReference.cache
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.FixedRateTaxProvider\obj\x86\Debug\Nop.Tax.FixedRateTaxProvider.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.FixedRateTaxProvider\obj\x86\Debug\Nop.Tax.FixedRateTaxProvider.pdb
+C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Tax\Nop.Tax.FixedRateTaxProvider\obj\x86\Debug\Nop.Tax.FixedRateTaxProvider.csprojResolveAssemblyReference.cache

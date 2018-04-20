@@ -73,7 +73,7 @@ namespace NopSolutions.NopCommerce.Web.Templates.Products {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::NopSolutions.NopCommerce.Web.Modules.ProductVariantsInGridControl ctrlProductVariantsInGrid;
+        protected global::NopSolutions.NopCommerce.Web.Modules.Product_Variants_Grid_test ctrlProductVariantsInGrid;
         
         /// <summary>
         /// ctrlProductsAlsoPurchased control.

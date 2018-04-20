@@ -50,6 +50,7 @@ namespace NopSolutions.NopCommerce.Web.Modules
             if (NopContext.Current.User != null && !NopContext.Current.User.IsGuest)
             {
                 txtFullName.Text = NopContext.Current.User.FullName;
+                
                 txtEmail.Text = NopContext.Current.User.Email;
             }
         }

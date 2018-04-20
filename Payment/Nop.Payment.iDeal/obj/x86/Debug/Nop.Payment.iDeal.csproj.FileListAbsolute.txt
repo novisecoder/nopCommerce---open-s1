@@ -11,6 +11,6 @@ C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.iDeal\bin\x86\Debug\PdfSharp.Charting.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.iDeal\bin\x86\Debug\Nop.BusinessLogic.pdb
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.iDeal\bin\x86\Debug\Nop.Common.pdb
-C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.iDeal\obj\x86\Debug\Nop.Payment.iDeal.csprojResolveAssemblyReference.cache
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.iDeal\obj\x86\Debug\Nop.Payment.iDeal.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.iDeal\obj\x86\Debug\Nop.Payment.iDeal.pdb
+C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Payment\Nop.Payment.iDeal\obj\x86\Debug\Nop.Payment.iDeal.csprojResolveAssemblyReference.cache

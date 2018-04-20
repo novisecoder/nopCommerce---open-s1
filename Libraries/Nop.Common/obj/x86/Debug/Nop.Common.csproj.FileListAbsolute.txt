@@ -1,5 +1,5 @@
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Common\bin\x86\Debug\Nop.Common.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Common\bin\x86\Debug\Nop.Common.pdb
+C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Common\obj\x86\Debug\Nop.Common.csprojResolveAssemblyReference.cache
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Common\obj\x86\Debug\Nop.Common.dll
 C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Common\obj\x86\Debug\Nop.Common.pdb
-C:\Users\silas\OneDrive\Documents\Coding\Web Sites\nopCommerce - open s1\Libraries\Nop.Common\obj\x86\Debug\Nop.Common.csprojResolveAssemblyReference.cache

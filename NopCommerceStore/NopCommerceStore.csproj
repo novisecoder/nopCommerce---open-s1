@@ -4064,6 +4064,12 @@
     <Compile Include="Modules\EShopperSlider.ascx.designer.cs">
       <DependentUpon>EShopperSlider.ascx</DependentUpon>
     </Compile>
+    <Compile Include="Modules\Product Variants Grid test.ascx.cs">
+      <DependentUpon>Product Variants Grid test.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Product Variants Grid test.ascx.designer.cs">
+      <DependentUpon>Product Variants Grid test.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Modules\SearchBox.ascx.cs">
       <DependentUpon>SearchBox.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -6576,6 +6582,7 @@
     <Content Include="Modules\EShopperHeader.ascx" />
     <Content Include="Modules\EShopperSidebar.ascx" />
     <Content Include="Modules\EShopperSlider.ascx" />
+    <Content Include="Modules\Product Variants Grid test.ascx" />
     <Content Include="Modules\SearchBox.ascx" />
     <Content Include="Modules\Slider.ascx" />
     <Content Include="packages.config" />

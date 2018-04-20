@@ -76,13 +76,13 @@ namespace NopSolutions.NopCommerce.Web
             Page.ClientScript.RegisterClientScriptInclude(jqueryTabs, jqueryTabs);
         }
         
-        protected string GetLocaleResourceString(string resourceName)
+        public string GetLocaleResourceString(string resourceName)
         {
             Language language = NopContext.Current.WorkingLanguage;
             return this.LocalizationManager.GetLocaleResourceString(resourceName, language.LanguageId);
         }
 
-        protected string GetLocaleResourceString(string resourceName, params object[] args)
+        public string GetLocaleResourceString(string resourceName, params object[] args)
         {
             Language language = NopContext.Current.WorkingLanguage;
             return string.Format(
